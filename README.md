@@ -1,2 +1,2 @@
-# RepasoT-cnicoS-bado
+# RepasoTecnicoSabado
 Repaso técnico de CSS, HTML y JavaScript
